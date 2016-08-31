@@ -14,7 +14,7 @@
 	<key>BackgroundGraphic</key>
 	<dict>
 		<key>Bounds</key>
-		<string>{{0, 0}, {383.52758693695068, 536.27557373046875}}</string>
+		<string>{{0, 0}, {384, 536}}</string>
 		<key>Class</key>
 		<string>SolidGraphic</string>
 		<key>ID</key>
@@ -53,7 +53,7 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{49.5, 0}, {310.5, 504}}</string>
+			<string>{{27, 0}, {310.5, 504}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -90,19 +90,8 @@
 				</dict>
 				<key>stroke</key>
 				<dict>
-					<key>Color</key>
-					<dict>
-						<key>b</key>
-						<string>0.641414</string>
-						<key>g</key>
-						<string>0.641414</string>
-						<key>r</key>
-						<string>0.641414</string>
-					</dict>
 					<key>Draws</key>
 					<string>NO</string>
-					<key>Width</key>
-					<real>0.5</real>
 				</dict>
 			</dict>
 			<key>Text</key>
@@ -112,42 +101,27 @@
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
-\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\fnil\fcharset0 LucidaGrande;}
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Medium;\f1\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{check\}}{\leveltext\leveltemplateid1\'01\uc0\u10003 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
-\pard\tx220\tx720\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li720\fi-720\pardirnatural\qj
-\ls1\ilvl0
-\f0\fs26 \cf0 {\listtext	
-\f1 \uc0\u10003 
-\f0 	}Wenn Du positive Aussagen \'fcber Dich selbst triffst (
-\b Affirmationen
-\b0 ), verbesserst Du dein Selbst-wertgef\'fchl, Selbstvertrauen und so weiter.\
+\deftab720
+\pard\tx560\pardeftab720\sl320\qj
+
+\f0\fs36 \cf0 \expnd0\expndtw0\kerning0
+Wachstum
+\f1\fs26 \
 \
-{\listtext	
-\f1 \uc0\u10003 
-\f0 	}Siehst Du die Dinge besser als sie sind, gibst Du deinem Unterbewusstsein einen Anreiz diese L\'fccke zur Realit\'e4t (
-\b kognitive Dissonanz
-\b0 ) zu schlie\'dfen. Das gilt selbst f\'fcr haarstr\'e4ubende Behauptungen wie 
-\i Ich lebe in meiner eigenen Burg in Schottland.\
-\ls1\ilvl0
+
+\i In Zukunft mache ich folgendes besser:\
+Wenn es nach 21:30 ist\
+Dann bereite ich mich darauf vor ins Bett zu gehen\
+
 \i0 \
-{\listtext	
-\f1 \uc0\u10003 
-\f0 	}F\'fcr das Erreichen Deiner Zielvorstellungen musst Du dich auf wenige Dinge 
-\b konzentrieren
-\b0 . Du solltest klar vor Augen haben was jetzt 
-\i am wichtigsten
-\i0  ist und von allem loslassen was nur 
-\i wichtig
-\i0  ist.\
+R\'fcckblickend auf den heutigen Tag oder die weitere Vergangenheit f\'e4llt Dir sicher ein Moment ein den Du gern anders gestaltet h\'e4ttest. Eine Entscheidung die Du jetzt anders treffen w\'fcrdest, eine Aufgabe der Du aus dem Weg gegangen bist, eine gute Angewohnheit die Du schleifen gelassen hast oder \'e4hnliches.\
 \
-{\listtext	
-\f1 \uc0\u10003 
-\f0 	}Die (unbewusste) \'dcberzeugung dass etwas (z.Bsp. Du) unver\'e4nderlich ist w\'fcrde es Dir unm\'f6glich machen genau das zu \'e4ndern. Wachstum braucht einen Geist der 
-\b auf Wachstum eingestellt
-\b0  ist und sich auf die Dinge konzentriert die er beeinflussen kann.}</string>
+\'dcberlege Dir ganz spezifisch eine Situation und wie Du darauf in Zukunft besser reagieren wirst. Du steigerst den Nutzen dieser \'dcbung, indem Du eine Situation w\'e4hlst die oft eintritt und deren Ergebnis sich schon durch kleine Verhaltens\'e4nderung verbessern kann.\
+\
+Es geht hier darum gute Gewohnheiten aufzubauen. Deshalb ist es nicht schlimm, wenn Du dich hier immer wieder an die selben Situationen und gew\'fcnschten Reaktionen erinnerst. Falls Dir die praktische Bedeutung und der psychologische Mechanismus von Gewohnheiten nicht ganz klar sind, schau mal in die hinten aufgelisteten Buchempfehlungen.}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -213,9 +187,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-10-02 13:05:50 +0000</string>
+	<string>2016-08-30 08:35:17 +0000</string>
 	<key>Modifier</key>
-	<string>Sebastian Fichtner</string>
+	<string>Sebastian</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>Orientation</key>
@@ -249,7 +223,7 @@
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{419.52758693695068, 595.27557373046875}</string>
+			<string>{420, 595}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
@@ -294,7 +268,7 @@
 		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{700, 0}, {480, 777}}</string>
+		<string>{{705, 0}, {470, 777}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -308,7 +282,7 @@
 		<key>SidebarWidth</key>
 		<integer>126</integer>
 		<key>VisibleRegion</key>
-		<string>{{-41, -49}, {466, 635}}</string>
+		<string>{{-36, -49}, {456, 635}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>

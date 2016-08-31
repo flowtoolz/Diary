@@ -14,7 +14,7 @@
 	<key>BackgroundGraphic</key>
 	<dict>
 		<key>Bounds</key>
-		<string>{{0, 0}, {383.52758693695068, 536.27557373046875}}</string>
+		<string>{{0, 0}, {384, 536}}</string>
 		<key>Class</key>
 		<string>SolidGraphic</string>
 		<key>ID</key>
@@ -53,7 +53,7 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{27, 0}, {310.5, 504}}</string>
+			<string>{{49.5, 0}, {310.5, 504}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FontInfo</key>
@@ -90,8 +90,19 @@
 				</dict>
 				<key>stroke</key>
 				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<string>0.641414</string>
+						<key>g</key>
+						<string>0.641414</string>
+						<key>r</key>
+						<string>0.641414</string>
+					</dict>
 					<key>Draws</key>
 					<string>NO</string>
+					<key>Width</key>
+					<real>0.5</real>
 				</dict>
 			</dict>
 			<key>Text</key>
@@ -101,30 +112,28 @@
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
 \cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Medium;\f1\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
 \pard\tx560\pardeftab720\sl320\qj
 
-\f0\fs36 \cf0 \expnd0\expndtw0\kerning0
-Wachstum
-\f1\fs26 \expnd0\expndtw0\kerning0
+\f0\fs36 \cf0 Klarheit
+\f1\fs26 \
 \
-\
+\pard\tx560\pardeftab720\sl320\qj
 
-\i In Zukunft mache ich folgendes besser:\
-Wenn es nach 21:30 ist\
-Dann bereite ich mich darauf vor ins Bett zu gehen\expnd0\expndtw0\kerning0
+\i \cf0 Heute gehe ich einen Schritt auf dieses grosse Ziel zu:\
+Ich bin ein gro\'dfartiger Partner f\'fcr meine Freundin.\
+Daf\'fcr setze ich besonders diese St\'e4rken ein:\
+Ich bin achtsam, geduldig, liebevoll und offen
+\i0 \
 \
-
-\i0 \expnd0\expndtw0\kerning0
+\'dcberlege Dir welchen Sinn der heutige Tag haben soll. Welchem mittel- oder langfristigen Lebenstraum widmest Du diesen Tag? Da sich solche Tr\'e4ume und Ziele nur langsam \'e4ndern, ist es v\'f6llig in Ordnung, wenn Du hier oft die selben eintr\'e4gst.\
 \
-R\'fcckblickend auf den heutigen Tag oder die weitere Vergangenheit f\'e4llt Dir sicher ein Moment ein den Du gern anders gestaltet h\'e4ttest. Eine Entscheidung die Du jetzt anders treffen w\'fcrdest, eine Aufgabe der Du aus dem Weg gegangen bist, eine gute Angewohnheit die Du schleifen gelassen hast u.s.w...\
+Welche deiner pers\'f6nlichen St\'e4rken helfen Dir heute deine Zielvorstellung zu verwirklichen? W\'e4hle h\'f6chstens vier und stell Dir vor auf welche Weise Du sie gewinnbringend einsetzen k\'f6nntest.\
 \
-\'dcberlege Dir ganz spezifisch eine Situation und wie Du darauf in Zukunft besser reagieren wirst. Du steigerst den Nutzen dieser \'dcbung, indem Du eine Situation w\'e4hlst die oft eintritt und deren Ergebnis sich schon durch kleine Verhaltens\'e4nderung verbessern kann.\
-\
-Es geht hier darum gute Gewohnheiten aufzubauen. Deshalb ist es nicht schlimm, wenn Du dich hier immer wieder an die selben Situationen und gew\'fcnschten Reaktionen erinnerst. Falls Dir die praktische Bedeutung und der psychologische Mechanismus von Gewohnheiten nicht ganz klar sind, schau mal in die hinten aufgelisteten Buchempfehlungen.}</string>
+Diese \'dcbung bzw. Meditation erfordert, dass Du dir deiner pers\'f6nlichen St\'e4rken, Werte und Ziele schon bewusst bist. Am Ende dieses Buches sind einige Quellen aufgelistet die Dir dabei helfen k\'f6nnen, Klarheit dar\'fcber zu erlangen in welche Richtung Du gehen willst.}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -190,9 +199,9 @@ Es geht hier darum gute Gewohnheiten aufzubauen. Deshalb ist es nicht schlimm, w
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2015-10-02 12:44:02 +0000</string>
+	<string>2016-08-30 09:13:15 +0000</string>
 	<key>Modifier</key>
-	<string>Sebastian Fichtner</string>
+	<string>Sebastian</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>Orientation</key>
@@ -226,7 +235,7 @@ Es geht hier darum gute Gewohnheiten aufzubauen. Deshalb ist es nicht schlimm, w
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{419.52758693695068, 595.27557373046875}</string>
+			<string>{420, 595}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
@@ -271,7 +280,7 @@ Es geht hier darum gute Gewohnheiten aufzubauen. Deshalb ist es nicht schlimm, w
 		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{705, 0}, {470, 777}}</string>
+		<string>{{639, 0}, {480, 777}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -285,7 +294,7 @@ Es geht hier darum gute Gewohnheiten aufzubauen. Deshalb ist es nicht schlimm, w
 		<key>SidebarWidth</key>
 		<integer>126</integer>
 		<key>VisibleRegion</key>
-		<string>{{-36, -49}, {456, 635}}</string>
+		<string>{{-41, -49}, {466, 635}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
