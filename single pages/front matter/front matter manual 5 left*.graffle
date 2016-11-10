@@ -112,16 +112,14 @@ Wachstum
 \f1\fs26 \
 \
 
-\i In Zukunft mache ich folgendes besser:\
-Wenn es nach 21:30 ist\
-Dann bereite ich mich darauf vor ins Bett zu gehen\
+\i In Zukunft mache ich folgendes besser: Wenn der Wecker fr\'fch am Morgen klingelt und ich bin extrem m\'fcde, dann erinnere ich mich an 3 Dinge: 1) Ich kann es akzeptieren heute m\'fcde zu sein. 2) F\'fcr erholsamen Schlaf ist es zu sp\'e4t. 3) Nach meiner Morgenroutine werde ich mich schon viel besser f\'fchlen!\
 
 \i0 \
-R\'fcckblickend auf den heutigen Tag oder die weitere Vergangenheit f\'e4llt Dir sicher ein Moment ein den Du gern anders gestaltet h\'e4ttest. Eine Entscheidung die Du jetzt anders treffen w\'fcrdest, eine Aufgabe der Du aus dem Weg gegangen bist, eine gute Angewohnheit die Du schleifen gelassen hast oder \'e4hnliches.\
+R\'fcckblickend auf den heutigen Tag oder die weitere Vergangenheit f\'e4llt Dir sicher ein Moment ein den Du gern anders gestaltet h\'e4ttest. Eine Entscheidung die Du jetzt anders treffen w\'fcrdest, eine Aufgabe der Du aus dem Weg gegangen bist oder eine gute Angewohnheit die Du schleifen gelassen hast.\
 \
-\'dcberlege Dir ganz spezifisch eine Situation und wie Du darauf in Zukunft besser reagieren wirst. Du steigerst den Nutzen dieser \'dcbung, indem Du eine Situation w\'e4hlst die oft eintritt und deren Ergebnis sich schon durch kleine Verhaltens\'e4nderung verbessern kann.\
+Stell Dir ganz konkret eine solche Situation vor. Wie wirst Du darauf in Zukunft besser reagieren?. Du steigerst den Nutzen dieser \'dcbung, indem Du eine Situation w\'e4hlst die oft eintritt und deren Ergebnis sich schon durch kleine Verhaltens\'e4nderung verbessern kann.\
 \
-Es geht hier darum gute Gewohnheiten aufzubauen. Deshalb ist es nicht schlimm, wenn Du dich hier immer wieder an die selben Situationen und gew\'fcnschten Reaktionen erinnerst. Falls Dir die praktische Bedeutung und der psychologische Mechanismus von Gewohnheiten nicht ganz klar sind, schau mal in die hinten aufgelisteten Buchempfehlungen.}</string>
+Es geht hier darum gute Gewohnheiten aufzubauen. Deshalb ist es nicht schlimm, wenn Du dich hier immer wieder an die selben Situationen und gew\'fcnschten Reaktionen erinnerst. Falls Du mehr \'fcber die praktische Bedeutung und den psychologische Mechanismus von Gewohnheiten wissen m\'f6chtest, schau mal in die hinten aufgelisteten Buchempfehlungen.}</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -187,7 +185,7 @@ Es geht hier darum gute Gewohnheiten aufzubauen. Deshalb ist es nicht schlimm, w
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-08-30 08:35:17 +0000</string>
+	<string>2016-09-03 08:13:05 +0000</string>
 	<key>Modifier</key>
 	<string>Sebastian</string>
 	<key>NotesVisible</key>
@@ -268,7 +266,7 @@ Es geht hier darum gute Gewohnheiten aufzubauen. Deshalb ist es nicht schlimm, w
 		<key>ExpandedCanvases</key>
 		<array/>
 		<key>Frame</key>
-		<string>{{705, 0}, {470, 777}}</string>
+		<string>{{644, 0}, {470, 777}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
